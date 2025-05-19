@@ -1,1 +1,1 @@
-# RG-VLM.github.io
+# MindOmni.github.io
